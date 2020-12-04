@@ -1,5 +1,5 @@
 ---
-title: demo pate
+title: demo page
 ---
 
 ## this is h2
